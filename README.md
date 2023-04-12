@@ -3,6 +3,8 @@
 ## Description:
 -This application is a simulation of a ecommorce database with categories, products and tags. This can be run local host. You will be able to get all, get by id, post, put and delete within the respected routes. It has one to one relationships and many to one. This project was kinda cool. I personally like creating a database/tables with sql
 
+![Screenshot 2023-04-11 195059](https://user-images.githubusercontent.com/119148777/231326778-e3fe766e-b648-4400-ab3d-75dfdf184f63.png)
+
 ## Table of Content:
 -[Description](#description)
 -[Installation](#installation)
